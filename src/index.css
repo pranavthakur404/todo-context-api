@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+}
+body {
+  padding: 1%;
+  text-align: center;
+}
+.app {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+}
+button {
+  padding: 7px 10px;
+  margin-inline: 5px;
+}
+.form {
+  width: 100%;
+}
+.form input {
+  width: 400px;
+  height: 30px;
+  padding: 10px;
+}
+.todos {
+  width: 100%;
+  margin-top: 10px;
+}
+.todo {
+  width: 100%;
+  padding: 10px;
+  margin: 20px;
+  background-color: grey;
+  color: #fff;
+}
